@@ -1,6 +1,6 @@
 # Next.js + Tailwind CSS Headless Challenge
 
-#### Your task is to displat a typical eCommerce product page from the provided store details found using the provided credentials with React Hooks, Tailwind CSS & SSR. Your solution will be judged based on the following things:
+#### Your task is to display a typical eCommerce product page from the provided store details found using the provided credentials with React Hooks, Tailwind CSS & SSR. Your solution will be judged based on the following things:
 
 - How your query the Shopify API
 - How your implement styling with TailwindCSS.
